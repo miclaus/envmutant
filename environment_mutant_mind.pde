@@ -188,7 +188,7 @@ void onCompletedGesture (SimpleOpenNI context, int gestureType, PVector pos)
     // SimpleOpenNI.GESTURE_WAVE
     case 0 :
       // start or stop recording
-      recording = !recording;
+      recording = ! recording;
       
       // new recording
       if ( recording ) 
