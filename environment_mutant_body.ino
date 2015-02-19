@@ -2,7 +2,7 @@
  * environment mutant (body)
  *
  * @author iosif miclaus
- * @www iosif.miclaus.com/#environment-mutant
+ * @www iosif.miclaus.net/#environment-mutant
  *
  * @note PWM Pulse-width modulation http://en.wikipedia.org/wiki/Pulse-width_modulation
  * @note "body part" represents anything that is a controllabe part of the body (e.g. a slider door)
